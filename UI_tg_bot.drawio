@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T13:30:03.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="szIB75EhvYUlanGJ1E3o" version="20.6.1" type="github"><diagram id="bLR-GLCvozgJtGVkFlwC" name="Страница 1">7Ztfj+I2EMA/TaT24Vb5Ayw8bsJyV2n3VB2VTupL5SVDYuHEqWMK3KfvOHFIOHdVOB2YB0vIG0/GjjP+eTITZ70oKfYfBanyV54C80I/3XvR3AvDwJ/M8I+SHFrJ5HHUCjJBU63UC5b0G3QttXRLU6hPFCXnTNLqVLjiZQkreSIjQvDdqdqas9OrViQDQ7BcEWZKv9JU5q10Gj728k9As7y7ctDdcEE6ZX0ndU5SvhuIomcvSgTnsj0q9gkwZbzOLm27xTtnjwMTUMpzGkjI/vwb4GlD2MjPq782i98+fQjbXv4hbKtv+JXQUg0fyq0etzx0xqh3tGCkxFq85qVc6jM+1lc5ZekLOfCtGkwtyWrT1eKcC/oN9QnDUwEK8LSQeq4j/0RjqVrqPgXUqPN7d4fBd6JXsj9RfCG17EbDGSNVTd+a8amGBREZLWMuJS+00i6nEpYVWSmdHeKrBiKLbpDaMiAk7N81eXCcSFwBwAuQ4oAqXYNHPfca/iPVux6lYKRl+QCjmZYRTW927LqfYDzQc3zBfEfGfD+XILJDA6zYgKy9cEIKZYryra6OZhhAgOaQzRwKvoGEMy5QXvKWCsrYdyLCaFZilcFaNVP2pLi8nrS4oGmqeo5rnAhaZi+N2nzUS75osygRx+Zr1qyiHBsC9hBXnJaysdM4xh9aLvEfxt4Yx5pgPejr+FPqQia8xOEj6KpfQGx2oNCJBZdEkrcj1D+DkPeXnYmNxiQ6k5LoWpSMDEoeHh4cGNbBmNgGY2KAkfBt2fT8P3C4R8dlj47oRx8dwfRak/9oTP5nkDkInNa0dt7gCt5gct+PiakBxEKQEq3gWLg1C9afDEHw3zGDI+HGJMysk+A7Eu6ChCC0jcLMkXAfJIxtkxCMLwoeXbZwWbYwnv5otjC+2oybueIXWAPekQoQ/V88NE385KEFcOzq2G+Ow06O5XNTIjn+oLpoymmjHHQNsZx38mOTtmcs44FC27P/q3ubcQOv1K76+01gAjODUXg8BQMUh1geqRtKeqgcQ7dnyH7iYwY5iobZYuCzRu97rpYkLJMBW4vO5c07sFrNqKmG2sf1PbdXSZoyHpydD664cB7PPq3Wk7PQJWd3goL97Cw0N38xKD5jB9BF55dF51P/NDoP/HOj86u9yw/NjeA/eMHVBxPOGVxjX+/Od3xDc8u3WUc4JICNCx3sI2I90A3NVzgakQJddu4Ysc+I/fDSfOmjGTkAEQ4R+4jcQdhpfkewrGBF13SF0pRIcJzcASfWtwxC8+XcZy4VJkRStJ5LU66cpkTnbiJMroaA+W7tI8jGS1B2aL0Fcd7iFt5iait/wWr/jXxzbvCfBtHzvw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-08T13:36:09.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="N9zjFuF6VDjbat4xqg14" version="20.6.1" type="github">
+  <diagram id="bLR-GLCvozgJtGVkFlwC" name="Страница 1">
+    <mxGraphModel dx="1069" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tegZqeeAkal40hp_kFIH-2" value="Main menu" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="210" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-3" value="Energy markets&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-2" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-4" value="...&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-2" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-6" value="Country&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="210" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-7" value="Netherlands" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-6" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-8" value="France" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-6" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-11" value="..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-6" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-10" value="..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-6" vertex="1">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-9" value="..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-6" vertex="1">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-15" value="Netherlands" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="210" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-16" value="Reference (краткое описание рынка)&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-15" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-18" value="Статистика" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-15" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-19" value="Подписаться на уведомления&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-15" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-20" value="..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-15" vertex="1">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-22" value="Stats&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="100" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-23" value="Tomorrow" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-22" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-24" value="Last week&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-22" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-25" value="Last month&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-22" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-26" value="Last year&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-22" vertex="1">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-27" value="Specific date&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-22" vertex="1">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-28" value="Notifications&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="310" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tegZqeeAkal40hp_kFIH-29" value="Get daily stats&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tegZqeeAkal40hp_kFIH-28" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm6Wey3K_haACQVHUCG3-2" value="Get weekly stats" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tegZqeeAkal40hp_kFIH-28">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm6Wey3K_haACQVHUCG3-1" value="..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tegZqeeAkal40hp_kFIH-28">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm6Wey3K_haACQVHUCG3-3" value="Where energy is produced&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm6Wey3K_haACQVHUCG3-4" value="Where it is consumed&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm6Wey3K_haACQVHUCG3-5" value="How you can buy energy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm6Wey3K_haACQVHUCG3-6" value="What is the future energy sustem of your counrty&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm6Wey3K_haACQVHUCG3-7" value="Estimate your footprint&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="660" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm6Wey3K_haACQVHUCG3-8" value="Form your energy consumption profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="760" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
